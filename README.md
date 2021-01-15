@@ -20,9 +20,9 @@
 | -------- | ----------------- | -------- |
 |1| Card | 2:50hrs |
 |2| App de lista de contatos utilizando ListView  | 04:20hrs |
-|3|  | |
-|4|  | |
-|5|  | |
+|3| Classes e Instâncias Dart | 02:40hrs |
+|4| Random e ListView | 04:50 hrs|
+|5| Maps, Loops, Padrão Service Locator e Carrosel | 05:20hrs |
 |6|  | |
 |7|  | |
 |8|  | |
