@@ -23,7 +23,7 @@
 |3| Classes e Instâncias Dart | 02:40hrs |
 |4| Random e ListView | 04:50 hrs|
 |5| Maps, Loops, Padrão Service Locator e Carrosel | 05:20hrs |
-|6|  | |
+|6| FormFild | 01:00hrs |
 |7|  | |
 |8|  | |
 |9|  | |
